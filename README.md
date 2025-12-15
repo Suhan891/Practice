@@ -1,3 +1,3 @@
 # New Project
 
-This Project was created by Suhan Patra
+This Project was created by Suhan Patra.
